@@ -16,3 +16,8 @@ Kullanıcılar notlarına Markdown formatında yazı ekleyebilir. Notlar, uygula
 *Redux-persist
 
 *Uuid
+
+# Ekran Gif
+
+
+![Video Screen1739825407814](https://github.com/user-attachments/assets/85e046ed-b2d1-4932-8a6b-620c7827964a)
